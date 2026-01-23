@@ -13,4 +13,8 @@ enter 2nd movie:it
 enter 3rd movie:lucy
 
 2nd method:-
+movies= []
+mov= input(enter 1st movie:)
+movies.append(mov)
+
 
