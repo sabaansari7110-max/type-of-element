@@ -7,10 +7,10 @@ movies.append(mov1)
 movies.append(mov2)
 movies.append(mov3)
 print(movies)
-output:- enter 1st movie:kgf
-enter 2nd movie:it
-enter 3rd movie:lucy
-['kgf', 'it', 'lucy']
+            output:- enter 1st movie:kgf
+                     enter 2nd movie:it
+                     enter 3rd movie:lucy
+                     ['kgf', 'it', 'lucy']
 
 2nd method:-
 movies= []
@@ -24,3 +24,4 @@ output:- enter 1st movie:kgf
 enter 2nd movie:it
 enter 3rd movie:lucy
 ['kgf', 'it', 'lucy']
+
