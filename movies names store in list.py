@@ -20,8 +20,9 @@ mov= input(enter 2nd movie:)
 movies.append(mov)
 mov= input(enter 3rd movie:)
 movies.append(mov)
-output:- enter 1st movie:kgf
-enter 2nd movie:it
-enter 3rd movie:lucy
-['kgf', 'it', 'lucy']
+             output:- enter 1st movie:kgf
+                      enter 2nd movie:it
+                      enter 3rd movie:lucy
+                      ['kgf', 'it', 'lucy']
+
 
