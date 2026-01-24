@@ -25,4 +25,5 @@ movies.append(mov)
                       enter 3rd movie:lucy
                       ['kgf', 'it', 'lucy']
 
+3rd method
 
