@@ -24,6 +24,7 @@ movies.append(mov)
                       enter 2nd movie:it
                       enter 3rd movie:lucy
                       ['kgf', 'it', 'lucy']
+
 3rd method
 movies= []
 movies.append(input("enter 1st movie:"))
@@ -33,4 +34,5 @@ movies.append(input("enter 3rd movie:"))
                     enter 2nd movie:it
                     enter 3rd movie:lucy
                     ['kgf', 'it', 'lucy']
+
 
