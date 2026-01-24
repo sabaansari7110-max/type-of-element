@@ -26,4 +26,5 @@ movies.append(mov)
                       ['kgf', 'it', 'lucy']
 
 3rd method
+movies= []
 
