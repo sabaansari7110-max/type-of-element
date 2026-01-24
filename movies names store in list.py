@@ -30,3 +30,6 @@ movies= []
 movies.append(input("enter 1st movie:"))
 movies.append(input("enter 2nd movie:"))
 movies.append(input("enter 3rd movie:"))
+            output:-enter 1st movie:kgf
+            enter 2nd movie:it
+enter 3rd movie:lucy
