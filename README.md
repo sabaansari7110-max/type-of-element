@@ -12,6 +12,7 @@
 3.Easy to access any movie bt its postition.
 
 #How it Works:
+<br>
 1.Each movie name is stored as an element in the list.
 <br>
 2.The list keeps the order of movies as the are addded.
