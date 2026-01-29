@@ -1,3 +1,4 @@
 # movies name stored in list
-user enter names of thier 3 favoraite movies & store them ina list.
-Get the answer in 3 methods 
+
+# Description:
+ This project stores mmovie names in a list and shows how multiple values can be kept values can be kept together in one place for easy use.
