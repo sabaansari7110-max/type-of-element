@@ -11,7 +11,7 @@
 <br>
 3.Easy to access any movie bt its postition.
 
-#How it Works:
+# How it Works:
 <br>
 1.Each movie name is stored as an element in the list.
 <br>
